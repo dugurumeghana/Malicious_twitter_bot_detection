@@ -95,4 +95,19 @@ Download predictions as a new CSV
 RESULTS:
 ![image](https://github.com/user-attachments/assets/cc234d76-5369-41f1-8a11-67144a17c733)
 
+## 📸 Project Output Screenshots
+
+### 🔹 Streamlit UI Home
+![Result 1](https://github.com/dugurumeghana/Malicious_twitter_bot_detection/blob/main/result-images/result1.png?raw=true)
+
+### 🔹 Data Preview
+![Result 2](https://github.com/dugurumeghana/Malicious_twitter_bot_detection/blob/main/result-images/result2.png?raw=true)
+
+### 🔹 Prediction Output
+![Result 3](https://github.com/dugurumeghana/Malicious_twitter_bot_detection/blob/main/result-images/result3.png?raw=true)
+
+### 🔹 ROC Curve
+![Result 4](https://github.com/dugurumeghana/Malicious_twitter_bot_detection/blob/main/result-images/result4.png?raw=true)
+
+
 
